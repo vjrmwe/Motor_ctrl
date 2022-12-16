@@ -55,7 +55,7 @@
 			<Item Name="direction.vi" Type="VI" URL="../direction.vi"/>
 			<Item Name="line_profile.vi" Type="VI" URL="../line_profile.vi"/>
 			<Item Name="return_zero.vi" Type="VI" URL="../return_zero.vi"/>
-			<Item Name="Serial - Settings.ctl" Type="VI" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
+			<Item Name="Serial - Settings.ctl" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
 			<Item Name="set_distance.vi" Type="VI" URL="../set_distance.vi"/>
 			<Item Name="single_move.vi" Type="VI" URL="../single_move.vi"/>
 			<Item Name="start.vi" Type="VI" URL="../start.vi"/>
