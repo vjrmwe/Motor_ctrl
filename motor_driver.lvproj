@@ -51,13 +51,17 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="XControlSupport.lvlib" Type="Library" URL="/&lt;vilib&gt;/_xctls/XControlSupport.lvlib"/>
 			</Item>
+			<Item Name="Arr_OrCheck.vi" Type="VI" URL="../../../OneDrive/科研/项目文档/20 离子化学重大仪器/4-项目研制开发文件/02 IC/01 离子源/软件开发/Voltage_ramp_Wien_filter/Coremorrow_lib/Serial_data/Arr_OrCheck.vi"/>
 			<Item Name="crc16.vi" Type="VI" URL="../crc16.vi"/>
 			<Item Name="direction.vi" Type="VI" URL="../direction.vi"/>
+			<Item Name="FOUR_U8_TO_FLOAT-1.vi" Type="VI" URL="../../../OneDrive/科研/项目文档/20 离子化学重大仪器/4-项目研制开发文件/02 IC/01 离子源/软件开发/Voltage_ramp_Wien_filter/Coremorrow_lib/Serial_data/FOUR_U8_TO_FLOAT-1.vi"/>
 			<Item Name="line_profile.vi" Type="VI" URL="../line_profile.vi"/>
+			<Item Name="readChannelSystemMaxVolt.vi" Type="VI" URL="../../../OneDrive/科研/项目文档/20 离子化学重大仪器/4-项目研制开发文件/02 IC/01 离子源/软件开发/Voltage_ramp_Wien_filter/Coremorrow_lib/Serial_data/readChannelSystemMaxVolt.vi"/>
 			<Item Name="return_zero.vi" Type="VI" URL="../return_zero.vi"/>
 			<Item Name="Serial - Settings.ctl" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
 			<Item Name="set_distance.vi" Type="VI" URL="../set_distance.vi"/>
 			<Item Name="single_move.vi" Type="VI" URL="../single_move.vi"/>
+			<Item Name="SNED_FLOAT_T_CHANNEL_V_S-1.vi" Type="VI" URL="../../../OneDrive/科研/项目文档/20 离子化学重大仪器/4-项目研制开发文件/02 IC/01 离子源/软件开发/Voltage_ramp_Wien_filter/Coremorrow_lib/Serial_data/SNED_FLOAT_T_CHANNEL_V_S-1.vi"/>
 			<Item Name="start.vi" Type="VI" URL="../start.vi"/>
 			<Item Name="stop.vi" Type="VI" URL="../stop.vi"/>
 			<Item Name="time_of_move.vi" Type="VI" URL="../time_of_move.vi"/>
